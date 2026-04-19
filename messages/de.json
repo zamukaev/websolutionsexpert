@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "process": "Prozess",
+    "portfolio": "Portfolio",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Webentwicklung & Design",
+    "title": "Professionelle Web",
+    "titleHighlight": "Lösungen",
+    "subtitle": "Wir entwickeln moderne, schnelle und benutzerfreundliche Websites, die Ihr Unternehmen voranbringen.",
+    "cta": "Projekt starten",
+    "ctaSecondary": "Portfolio ansehen"
+  },
+  "stats": {
+    "projects": "Projekte",
+    "experience": "Jahre Erfahrung",
+    "satisfaction": "Kundenzufriedenheit"
+  }
+}
