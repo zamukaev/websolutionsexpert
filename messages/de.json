@@ -18,5 +18,172 @@
     "projects": "Projekte",
     "experience": "Jahre Erfahrung",
     "satisfaction": "Kundenzufriedenheit"
+  },
+  "services": {
+    "label": "Leistungen",
+    "title": "Was wir für Sie entwickeln",
+    "subtitle": "Von der Idee bis zum Launch – wir setzen Ihr Projekt professionell und termingerecht um.",
+    "items": {
+      "s1": {
+        "title": "Landingpages",
+        "desc": "Hochkonvertierende Landingpages, die Besucher in Kunden verwandeln."
+      },
+      "s2": {
+        "title": "Online-Shops",
+        "desc": "Vollwertige E-Commerce-Lösungen mit einfachem Checkout und sicherer Bezahlung."
+      },
+      "s3": {
+        "title": "Mobile Apps",
+        "desc": "Cross-Platform-Apps für iOS und Android mit nativer Performance."
+      },
+      "s4": {
+        "title": "Telegram Bots",
+        "desc": "Intelligente Bots für Marketing, Kundensupport und Vertriebsautomatisierung."
+      },
+      "s5": {
+        "title": "Web Applications",
+        "desc": "Komplexe Webanwendungen mit modernem Stack, sauberem Code und skalierbarer Architektur."
+      },
+      "s6": {
+        "title": "Support & Updates",
+        "desc": "Technische Betreuung, regelmäßige Updates und kontinuierliche Weiterentwicklung."
+      }
+    }
+  },
+  "reviews": {
+    "label": "Bewertungen",
+    "title": "Was Kunden sagen",
+    "items": {
+      "r1": {
+        "text": "Absolut professionelle Arbeit. Die Landingpage wurde pünktlich geliefert und übertraf alle Erwartungen – sauber coded, schnell und mobil perfekt.",
+        "name": "Markus K.",
+        "role": "Inhaber, FitLife Studio"
+      },
+      "r2": {
+        "text": "Unser Online-Shop läuft seit dem Launch ohne ein einziges Problem. Tolle Kommunikation, faire Preise und ein echtes Verständnis für unsere Branche.",
+        "name": "Anna S.",
+        "role": "Geschäftsführerin, TechStore GmbH"
+      },
+      "r3": {
+        "text": "Der Telegram-Bot hat unsere Bestellabwicklung komplett automatisiert. Wir sparen täglich Stunden – ich kann nur empfehlen.",
+        "name": "Thomas W.",
+        "role": "Betreiber, CaféHaus Berlin"
+      }
+    }
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Bereit für Ihr",
+    "titleHighlight": "nächstes Projekt?",
+    "subtitle": "Schreiben Sie uns – wir antworten innerhalb von 24 Stunden und besprechen Ihr Vorhaben kostenlos.",
+    "ctaWhatsapp": "WhatsApp schreiben",
+    "ctaEmail": "E-Mail senden",
+    "divider": "oder Anfrage senden",
+    "form": {
+      "name": "Ihr Name *",
+      "phone": "Telefon / Telegram",
+      "message": "Ihr Projekt beschreiben *",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet…",
+      "sent": "✓ Gesendet!"
+    }
+  },
+  "footer": {
+    "tagline": "Websites & Apps, die Ihr Business voranbringen.",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Unsere Projekte",
+    "subtitle": "Ausgewählte Arbeiten – von der Landingpage bis zur komplexen Web-App.",
+    "filter": {
+      "all": "Alle",
+      "landingpages": "Landingpages",
+      "shops": "Shops",
+      "apps": "Apps",
+      "bots": "Bots"
+    },
+    "cat": {
+      "landingpages": "Landingpage",
+      "shops": "Online-Shop",
+      "apps": "Mobile App",
+      "bots": "Telegram Bot"
+    },
+    "projects": {
+      "p1": {
+        "title": "FitLife",
+        "desc": "Landingpage für ein Fitness-Studio mit Kursübersicht und Buchungssystem."
+      },
+      "p2": {
+        "title": "TechStore",
+        "desc": "Online-Shop für Elektronik mit Produktfiltern und sicherem Checkout."
+      },
+      "p3": {
+        "title": "BudgetMate",
+        "desc": "Mobile App zur persönlichen Finanzverwaltung mit Diagrammen und Kategorien."
+      },
+      "p4": {
+        "title": "CaféBot",
+        "desc": "Telegram-Bot für Bestellungen, Tischreservierungen und Kundenbindung."
+      },
+      "p5": {
+        "title": "EventHub",
+        "desc": "Landingpage für Veranstaltungen mit Countdown, Programm und Ticketkauf."
+      },
+      "p6": {
+        "title": "AutoParts",
+        "desc": "Autoteile-Shop mit Fahrzeugsuche, Katalog und Express-Lieferung."
+      }
+    }
+  },
+  "whyme": {
+    "label": "Warum ich",
+    "title": "Was mich auszeichnet",
+    "subtitle": "Ich verbinde technische Exzellenz mit echtem Verständnis für Ihr Business.",
+    "features": {
+      "approach": {
+        "title": "Individueller Ansatz",
+        "desc": "Kein Template, kein Einheitsdesign – jedes Projekt wird von Grund auf auf Ihre Ziele zugeschnitten."
+      },
+      "design": {
+        "title": "Modernes Design",
+        "desc": "Aktuelle UI/UX-Trends, saubere Typografie und ein durchdachtes visuelles System für jeden Bildschirm."
+      },
+      "deadlines": {
+        "title": "Deadlines sind heilig",
+        "desc": "Klare Zeitpläne, transparente Kommunikation und Lieferung zum vereinbarten Termin – ohne Ausreden."
+      },
+      "support": {
+        "title": "Support nach dem Launch",
+        "desc": "Ich begleite Ihr Projekt auch nach der Veröffentlichung – Updates, Optimierungen und schnelle Hilfe."
+      }
+    },
+    "stack": {
+      "label": "Tech Stack",
+      "title": "Womit ich arbeite"
+    }
+  },
+  "process": {
+    "label": "Prozess",
+    "title": "So arbeiten wir",
+    "subtitle": "Ein transparenter Ablauf in vier Schritten – von der ersten Idee bis zum fertigen Produkt.",
+    "steps": {
+      "briefing": {
+        "title": "Briefing",
+        "desc": "Wir analysieren Ihre Anforderungen, definieren Ziele und erstellen ein konkretes Konzept."
+      },
+      "design": {
+        "title": "Design",
+        "desc": "Modernes UI/UX-Design – markenkonform, nutzerfreundlich und konversionsorientiert."
+      },
+      "development": {
+        "title": "Entwicklung",
+        "desc": "Technische Umsetzung mit sauberem Code, optimaler Performance und Best Practices."
+      },
+      "launch": {
+        "title": "Launch",
+        "desc": "Deployment, finale Tests und Go-Live – Ihr Projekt ist startklar."
+      }
+    }
   }
 }
